@@ -1,0 +1,2 @@
+CARDNORMALSPREADRADIUS1.png|CardNormalSpreadRadius1.png
+CARDNORMALSPREADRADIUS2.png|CardNormalSpreadRadius2.png

@@ -1,0 +1,3 @@
+CHARACTERHPSAMPLE1.png|CharacterHpSample1.png
+CHARACTERHPSAMPLE2.png|CharacterHpSample2.png
+CHARACTERHPSAMPLE3.png|CharacterHpSample3.png

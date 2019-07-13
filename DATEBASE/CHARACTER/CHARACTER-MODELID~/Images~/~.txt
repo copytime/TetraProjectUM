@@ -1,0 +1,5 @@
+CHARACTERMODELIDSAMPLE1.png|CharacterModelIdSample1.png
+CHARACTERMODELIDSAMPLE2.png|CharacterModelIdSample2.png
+CHARACTERMOELIDSAMPLE1.png|CharacterMoelIdSample1.png
+CHARACTERMODELIDSAMPLE2.png|CharacterModelIdSample2.png
+CHARACTERMODELIDSAMPLE1.png|CharacterModelIdSample1.png

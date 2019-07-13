@@ -1,0 +1,2 @@
+CARDDESCRIPTIONSAMPLE1.png|CardDescriptionSample1.png
+CARDDESCRIPTIONSAMPLE2.png|CardDescriptionSample2.png

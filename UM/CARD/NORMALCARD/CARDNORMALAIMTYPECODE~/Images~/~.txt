@@ -1,0 +1,2 @@
+CARDNORMALAIMTYPECODE1.png|CardNormalAimTypeCode1.png
+CARDNORMALAIMTYPECODE2.png|CardNormalAimTypeCode2.png

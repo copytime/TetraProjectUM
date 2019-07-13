@@ -1,0 +1,2 @@
+CARDSETCHARACTERIDSAMPLE1.png|CardsetCharacterIdSample1.png
+CARDSETCHARACTERIDSAMPLE2.png|CardsetCharacterIdSample2.png

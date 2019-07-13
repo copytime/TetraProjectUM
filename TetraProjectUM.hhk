@@ -1,0 +1,584 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!--Sitemap 1.0-->
+</HEAD><BODY>
+<OBJECT type="text /site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type = "text/sitemap">
+		<param name ="Name" value="目录">
+		<param name ="Local" value="_index.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="原石计划 mod 教程 0.1.1 版">
+		<param name="Local" value="_TetraProjectUM.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="前言">
+		<param name="Local" value="DATEBASE/PREFACE/_PREFACE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Database 详解">
+		<param name="Local" value="DATEBASE/_DATEBASE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="首次进入">
+		<param name="Local" value="DATEBASE/FIRSTTIMEENTER/_FIRSTTIMEENTER.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Character 子列表">
+		<param name="Local" value="DATEBASE/CHARACTER/_CHARACTER.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Character-id">
+		<param name="Local" value="DATEBASE/CHARACTER/CHARACTER-ID.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Character-displayName">
+		<param name="Local" value="DATEBASE/CHARACTER/CHARACTER-DISPLAYNAME.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Character-modelId">
+		<param name="Local" value="DATEBASE/CHARACTER/CHARACTER-MODELID.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Character-description">
+		<param name="Local" value="DATEBASE/CHARACTER/CHARACTER-DESCRIPTION.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Character-tagCode">
+		<param name="Local" value="DATEBASE/CHARACTER/CHARACTER-TAGCODE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Character-energy">
+		<param name="Local" value="DATEBASE/CHARACTER/CHARACTER-ENERGY.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Character-sightRadius">
+		<param name="Local" value="DATEBASE/CHARACTER/CHARACTER-SIGHTRADIUS.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Character-stamina">
+		<param name="Local" value="DATEBASE/CHARACTER/CHARACTER-STAMINA.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Character-teammateCharacterId">
+		<param name="Local" value="DATEBASE/CHARACTER/CHARACTER-TEAMMATECHARACTERID.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Character-moveSpeed">
+		<param name="Local" value="DATEBASE/CHARACTER/CHARACTER-MOVESPEED.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Character-initialHandCardCount">
+		<param name="Local" value="DATEBASE/CHARACTER/CHARACTER-INITIALHANDCARDCOUNT.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Character-startTurnDrawHandCardCount">
+		<param name="Local" value="DATEBASE/CHARACTER/CHARACTER-STARTTURNDRAWHANDCARDCOUNT.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Character-type">
+		<param name="Local" value="DATEBASE/CHARACTER/CHARACTER-TYPE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Character-debugName">
+		<param name="Local" value="DATEBASE/CHARACTER/CHARACTER-DEBUGNAME.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Character-introPlotId">
+		<param name="Local" value="DATEBASE/CHARACTER/CHARACTER-INTROPLOTID.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Character-hp">
+		<param name="Local" value="DATEBASE/CHARACTER/CHARACTER-HP.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Character-initialCode">
+		<param name="Local" value="DATEBASE/CHARACTER/CHARACTER-INITIALCODE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Character-initialEquipmentCardId[0~99]">
+		<param name="Local" value="DATEBASE/CHARACTER/CHARACTER-INITIALEQUIPMENTCARDID0.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Character-cardId[0~99]">
+		<param name="Local" value="DATEBASE/CHARACTER/CHARACTER-CARDID0.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Card 子列表">
+		<param name="Local" value="DATEBASE/CARD/_CARD.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Card-id">
+		<param name="Local" value="DATEBASE/CARD/CARD-ID.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Card-displayName">
+		<param name="Local" value="DATEBASE/CARD/CARD-DISPLAYNAME.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Card-testerCategory">
+		<param name="Local" value="DATEBASE/CARD/CARD-TESTERCATEGORY.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Card-usedIn">
+		<param name="Local" value="DATEBASE/CARD/CARD-USEDIN.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Card-price">
+		<param name="Local" value="DATEBASE/CARD/CARD-PRICE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Card-energy">
+		<param name="Local" value="DATEBASE/CARD/CARD-ENERGY.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Card-range">
+		<param name="Local" value="DATEBASE/CARD/CARD-RANGE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Card-spreadRadius">
+		<param name="Local" value="DATEBASE/CARD/CARD-SPREADRADIUS.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Card-aimTypeCode">
+		<param name="Local" value="DATEBASE/CARD/CARD-AIMTYPECODE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Card-perferredTargetTypeCode">
+		<param name="Local" value="DATEBASE/CARD/CARD-PERFERREDTARGETTYPECODE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Card-tagCode">
+		<param name="Local" value="DATEBASE/CARD/CARD-TAGCODE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Card-description">
+		<param name="Local" value="DATEBASE/CARD/CARD-DESCRIPTION.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Card-code">
+		<param name="Local" value="DATEBASE/CARD/CARD-CODE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Card-backgroundId">
+		<param name="Local" value="DATEBASE/CARD/CARD-BACKGROUNDID.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Card-effectCode">
+		<param name="Local" value="DATEBASE/CARD/CARD-EFFECTCODE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Card-comment">
+		<param name="Local" value="DATEBASE/CARD/CARD-COMMENT.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="一个数字">
+		<param name="Local" value="DATEBASE/CARD/A-NUMBER.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="CardCommand 子列表">
+		<param name="Local" value="DATEBASE/CARDCOMMAND/_CARDCOMMAND.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="CardCommand-id">
+		<param name="Local" value="DATEBASE/CARDCOMMAND/CARDCOMMAND-ID.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="CardCommand-description">
+		<param name="Local" value="DATEBASE/CARDCOMMAND/CARDCOMMAND-DESCRIPTION.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="CardCommand-quoteDescription">
+		<param name="Local" value="DATEBASE/CARDCOMMAND/CARDCOMMAND-QUOTEDESCRIPTION.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="CardCommand-effectCode">
+		<param name="Local" value="DATEBASE/CARDCOMMAND/CARDCOMMAND-EFFECTCODE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="CardCommand-remapCode">
+		<param name="Local" value="DATEBASE/CARDCOMMAND/CARDCOMMAND-REMAPCODE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="CardCommand-comment">
+		<param name="Local" value="DATEBASE/CARDCOMMAND/CARDCOMMAND-COMMENT.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="CardCommand-category">
+		<param name="Local" value="DATEBASE/CARDCOMMAND/CARDCOMMAND-CATEGORY.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Cardset 子列表">
+		<param name="Local" value="DATEBASE/CARDSET/_CARDSET.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Cardset-id">
+		<param name="Local" value="DATEBASE/CARDSET/CARDSET-ID.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Cardset-displayName">
+		<param name="Local" value="DATEBASE/CARDSET/CARDSET-DISPLAYNAME.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Cardset-tagCode">
+		<param name="Local" value="DATEBASE/CARDSET/CARDSET-TAGCODE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Cardset-characterId">
+		<param name="Local" value="DATEBASE/CARDSET/CARDSET-CHARACTERID.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Cardset-CardId[0~99]">
+		<param name="Local" value="DATEBASE/CARDSET/CARDSET-CARDID0.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Stage 子列表">
+		<param name="Local" value="DATEBASE/STAGE/_STAGE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Stage-id">
+		<param name="Local" value="DATEBASE/STAGE/STAGE-ID.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Stage-displayName">
+		<param name="Local" value="DATEBASE/STAGE/STAGE-DISPLAYNAME.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Stage-comment">
+		<param name="Local" value="DATEBASE/STAGE/STAGE-COMMENT.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Stage-section">
+		<param name="Local" value="DATEBASE/STAGE/STAGE-SECTION.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Stage-part">
+		<param name="Local" value="DATEBASE/STAGE/STAGE-PART.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Stage-mapId">
+		<param name="Local" value="DATEBASE/STAGE/STAGE-MAPID.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Stage-initCode">
+		<param name="Local" value="DATEBASE/STAGE/STAGE-INITCODE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Stage-mobId[0~5]">
+		<param name="Local" value="DATEBASE/STAGE/STAGE-MOBID0.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Stage-rewardMoney">
+		<param name="Local" value="DATEBASE/STAGE/STAGE-REWARDMONEY.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Stage-musicId">
+		<param name="Local" value="DATEBASE/STAGE/STAGE-MUSICID.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Effect 子列表">
+		<param name="Local" value="DATEBASE/EFFECT/_EFFECT.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Effect-id">
+		<param name="Local" value="DATEBASE/EFFECT/EFFECT-ID.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Effect-displayName">
+		<param name="Local" value="DATEBASE/EFFECT/EFFECT-DISPLAYNAME.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Effect-soundId">
+		<param name="Local" value="DATEBASE/EFFECT/EFFECT-SOUNDID.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Effect-lifetime">
+		<param name="Local" value="DATEBASE/EFFECT/EFFECT-LIFETIME.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Sound 子列表">
+		<param name="Local" value="DATEBASE/SOUND/_SOUND.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Sound-id">
+		<param name="Local" value="DATEBASE/SOUND/SOUND-ID.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Sound-displayName">
+		<param name="Local" value="DATEBASE/SOUND/SOUND-DISPLAYNAME.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Music 子列表">
+		<param name="Local" value="DATEBASE/MUSIC/_MUSIC.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Tester 子列表">
+		<param name="Local" value="DATEBASE/TESTER/_TESTER.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Devlog 子列表">
+		<param name="Local" value="DATEBASE/DEVLOG/_DEVLOG.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ExcelConfig 子列表">
+		<param name="Local" value="DATEBASE/EXCELCONFIG/_EXCELCONFIG.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Database 详解-附录">
+		<param name="Local" value="DATEBASE/APPENDIX/_APPENDIX.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="CardCommand 子列表-用于描述的指令">
+		<param name="Local" value="DATEBASE/APPENDIX/CARDCOMMANDDESCRIPTION/_CARDCOMMANDDESCRIPTION.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="参数">
+		<param name="Local" value="DATEBASE/APPENDIX/CARDCOMMANDDESCRIPTION/ARGS.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="CardIdToDisplayName 和 cn">
+		<param name="Local" value="DATEBASE/APPENDIX/CARDCOMMANDDESCRIPTION/CARDIDTODISPLAYNAME.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="CharacterIdToDisplayName 和 cha">
+		<param name="Local" value="DATEBASE/APPENDIX/CARDCOMMANDDESCRIPTION/CHARACTERIDTODISPLAYNAME.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="CardCommandIdToDescription 和 cmd">
+		<param name="Local" value="DATEBASE/APPENDIX/CARDCOMMANDDESCRIPTION/CARDCOMMANDIDTODESCRIPTION.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="AddRichTagYellow，yellow 和 ylw">
+		<param name="Local" value="DATEBASE/APPENDIX/CARDCOMMANDDESCRIPTION/ADDRICHTAGYELLOW.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="optionalArg，opt 和 optN">
+		<param name="Local" value="DATEBASE/APPENDIX/CARDCOMMANDDESCRIPTION/OPTIONALARG.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Quote 和 qte">
+		<param name="Local" value="DATEBASE/APPENDIX/CARDCOMMANDDESCRIPTION/QUOTE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="QuoteRemapCode 和 qteRmp">
+		<param name="Local" value="DATEBASE/APPENDIX/CARDCOMMANDDESCRIPTION/QUOTEREMAPCODE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="credit">
+		<param name="Local" value="DATEBASE/APPENDIX/CARDCOMMANDDESCRIPTION/CREDIT.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="测试宏">
+		<param name="Local" value="DATEBASE/VBA/_VBA.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="快速教程">
+		<param name="Local" value="UM/_UM.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="卡牌（Card）">
+		<param name="Local" value="UM/CARD/_CARD.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="制作一张普通卡牌">
+		<param name="Local" value="UM/CARD/NORMALCARD/_NORMALCARD.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="开始制作一张普通卡牌">
+		<param name="Local" value="UM/CARD/NORMALCARD/STARTNORMALCARD.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="填写卡牌 id">
+		<param name="Local" value="UM/CARD/NORMALCARD/CARDID.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="填写卡牌 displayName">
+		<param name="Local" value="UM/CARD/NORMALCARD/DISPLAYNAME.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="为卡牌定价 price">
+		<param name="Local" value="UM/CARD/NORMALCARD/CARDPRICE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="设定能量消耗 energy">
+		<param name="Local" value="UM/CARD/NORMALCARD/CARDNORMALENERGY.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="设定卡牌射程 range">
+		<param name="Local" value="UM/CARD/NORMALCARD/CARDNORMALRANGE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="设定卡牌扩散范围 spreadRadius">
+		<param name="Local" value="UM/CARD/NORMALCARD/CARDNORMALSPREADRADIUS.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="设定卡牌瞄准类型 aimTypeCode">
+		<param name="Local" value="UM/CARD/NORMALCARD/CARDNORMALAIMTYPECODE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="设定卡牌最佳目标 perferredTargetTypeCode">
+		<param name="Local" value="UM/CARD/NORMALCARD/CARDNORMALPERFERREDTARGETTYPECODE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="编写卡牌指令 code">
+		<param name="Local" value="UM/CARD/NORMALCARD/CARDNORMALCODE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="设定卡牌背景图片 backgroundId">
+		<param name="Local" value="UM/CARD/NORMALCARD/CARDNORMALBACKGROUNDID.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="设定卡牌特效代码 effectCode">
+		<param name="Local" value="UM/CARD/NORMALCARD/CARD-NORMALEFFECTCODE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="测试卡牌">
+		<param name="Local" value="UM/CARD/NORMALCARD/CARDNORMALTEST.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="总览制作一张普通卡牌">
+		<param name="Local" value="UM/CARD/NORMALCARD/CARDNORMALSUMMARY.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="制作一张 buff 卡牌">
+		<param name="Local" value="UM/CARD/CARDBUFF/_CARDBUFF.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="开始制作一张 buff 卡牌">
+		<param name="Local" value="UM/CARD/CARDBUFF/STARTBUFFCARD.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="填写 buff id">
+		<param name="Local" value="UM/CARD/CARDBUFF/CARDBUFFID.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="填写 buff 卡牌 displayName">
+		<param name="Local" value="UM/CARD/CARDBUFF/CRADBUFFDISPLAYNAME.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="填写卡牌 tagCode">
+		<param name="Local" value="UM/CARD/CARDBUFF/CARDBUFFTAGCODE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="重写 buff 卡牌描述 description">
+		<param name="Local" value="UM/CARD/CARDBUFF/CARDBUFFDESCRIPTION.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="编写 buff 卡牌指令 code">
+		<param name="Local" value="UM/CARD/CARDBUFF/CARDBUFFCODE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="设定 buff 卡牌背景图片 backgroundId">
+		<param name="Local" value="UM/CARD/CARDBUFF/CARDBUFFBACKGROUND.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="测试卡牌">
+		<param name="Local" value="UM/CARD/CARDBUFF/CARDBUFFTEST.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="总览制作一张 buff 卡牌">
+		<param name="Local" value="UM/CARD/CARDBUFF/CARDBUFFSUMMARY.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="制作一张装备卡牌">
+		<param name="Local" value="UM/CARD/EQUIPMENTCARD/_EQUIPMENTCARD.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="开始制作一张装备卡牌">
+		<param name="Local" value="UM/CARD/EQUIPMENTCARD/STARTEQUIPMENTCARD.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="填写装备卡牌 id">
+		<param name="Local" value="UM/CARD/EQUIPMENTCARD/CARDEQMID.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="填写装备卡牌 displayName">
+		<param name="Local" value="UM/CARD/EQUIPMENTCARD/CARDEQMDISPLAYNAME.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="为装备卡牌定价 price">
+		<param name="Local" value="UM/CARD/EQUIPMENTCARD/CARDEQMPRICE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="设定装备卡牌瞄准类型 aimTypeCode">
+		<param name="Local" value="UM/CARD/EQUIPMENTCARD/CARDEQMAIMTYPECODE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="设定装备卡牌最佳目标 perferredTargetTypeCode">
+		<param name="Local" value="UM/CARD/EQUIPMENTCARD/CARDEQMPTTC.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="填写装备卡牌 tagCode">
+		<param name="Local" value="UM/CARD/EQUIPMENTCARD/CARDEQMTAGCODE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="重写装备卡牌描述 description">
+		<param name="Local" value="UM/CARD/EQUIPMENTCARD/CARDEQMDESCRIPTION.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="编写装备卡牌指令 code">
+		<param name="Local" value="UM/CARD/EQUIPMENTCARD/CARDEQMCODE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="设定装备卡牌背景图片 backgroundId">
+		<param name="Local" value="UM/CARD/EQUIPMENTCARD/CARDEQMBACKGROUNDID.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="测试卡牌">
+		<param name="Local" value="UM/CARD/EQUIPMENTCARD/CARDET.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="总览制作一张装备卡牌">
+		<param name="Local" value="UM/CARD/EQUIPMENTCARD/CARDEQMSUMMARY.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="卡面（CardArt）">
+		<param name="Local" value="UM/CARDART/_CARDART.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="游戏角色（CharacterModel）">
+		<param name="Local" value="UM/CHARACTERMODEL/_CHARACTERMODEL.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="特效（Effect）">
+		<param name="Local" value="UM/EFFECT/_EFFECT.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="地形环境（EnvironmentModel）">
+		<param name="Local" value="UM/BACKGROUND/_BACKGROUND.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="关卡地图（StageMap）">
+		<param name="Local" value="UM/LEVELMAP/_LEVELMAP.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="音乐音效 (Music/Sound)">
+		<param name="Local" value="UM/MUSIC-SOUND/_MUSIC-SOUND.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="本地化(Localization)">
+		<param name="Local" value="UM/LOCALIZATION/_LOCALIZATION.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="详细教程">
+		<param name="Local" value="MESS/_MESS.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="卡牌相关的教程">
+		<param name="Local" value="MESS/CARD/_CARD.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="新建一张普通卡牌">
+		<param name="Local" value="MESS/CARD/MAKENEWCARDS.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="有疑问？">
+		<param name="Local" value="QUESTION/_QUESTION.html">
+		</OBJECT>
+</UL>
+</BODY></HTML>

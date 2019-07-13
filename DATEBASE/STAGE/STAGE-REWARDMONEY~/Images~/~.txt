@@ -1,0 +1,2 @@
+STAGEREWARDMONEYSAMPLE1.png|StageRewardMoneySample1.png
+STAGEREWARDMONEYSAMPLE2.png|StageRewardMoneySample2.png

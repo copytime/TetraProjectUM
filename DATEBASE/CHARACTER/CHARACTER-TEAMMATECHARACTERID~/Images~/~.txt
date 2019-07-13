@@ -1,0 +1,2 @@
+CHARACTERTEAMMATESAMPLE1.png|CharacterTeammateSample1.png
+CHARACTERTEAMMATESAMPLE2.png|CharacterTeammateSample2.png

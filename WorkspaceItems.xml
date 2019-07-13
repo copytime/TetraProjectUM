@@ -1,0 +1,461 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Item Title="原石计划 mod 教程 0.1.1 版" Path="" StatuHeader="[-]" StatuTail="" IsExpanded="true" Tooltip="" ItemType="Folder" IsHomePage="True">
+  <Item Title="前言" Path="DATEBASE\PREFACE\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False" />
+  <Item Title="Database 详解" Path="DATEBASE\" StatuHeader="" StatuTail="" IsExpanded="true" Tooltip="" ItemType="Folder" IsHomePage="False">
+    <Item Title="图像~" Path="DATEBASE\_DATEBASE~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+      <Item Title="DatabaseSummary.png" Path="DATEBASE\_DATEBASE~\Images~\DATABASESUMMARY.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+    </Item>
+    <Item Title="首次进入" Path="DATEBASE\FIRSTTIMEENTER\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False">
+      <Item Title="图像~" Path="DATEBASE\FIRSTTIMEENTER\_FIRSTTIMEENTER~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+        <Item Title="FirstTimeEnter1.png" Path="DATEBASE\FIRSTTIMEENTER\_FIRSTTIMEENTER~\Images~\FIRSTTIMEENTER1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+        <Item Title="FirstTimeEnter2.png" Path="DATEBASE\FIRSTTIMEENTER\_FIRSTTIMEENTER~\Images~\FIRSTTIMEENTER2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+      </Item>
+    </Item>
+    <Item Title="Character 子列表" Path="DATEBASE\CHARACTER\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False">
+      <Item Title="Character-id" Path="DATEBASE\CHARACTER\CHARACTER-ID.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Character-displayName" Path="DATEBASE\CHARACTER\CHARACTER-DISPLAYNAME.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Character-modelId" Path="DATEBASE\CHARACTER\CHARACTER-MODELID.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+        <Item Title="图像~" Path="DATEBASE\CHARACTER\CHARACTER-MODELID~\Images~\" StatuHeader="" StatuTail="" IsExpanded="true" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+          <Item Title="CharacterModelIdSample1.png" Path="DATEBASE\CHARACTER\CHARACTER-MODELID~\Images~\CHARACTERMODELIDSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          <Item Title="CharacterModelIdSample2.png" Path="DATEBASE\CHARACTER\CHARACTER-MODELID~\Images~\CHARACTERMODELIDSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+        </Item>
+      </Item>
+      <Item Title="Character-description" Path="DATEBASE\CHARACTER\CHARACTER-DESCRIPTION.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Character-tagCode" Path="DATEBASE\CHARACTER\CHARACTER-TAGCODE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Character-energy" Path="DATEBASE\CHARACTER\CHARACTER-ENERGY.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+        <Item Title="图像~" Path="DATEBASE\CHARACTER\CHARACTER-ENERGY~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+          <Item Title="CharacterEnergySample1.png" Path="DATEBASE\CHARACTER\CHARACTER-ENERGY~\Images~\CHARACTERENERGYSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          <Item Title="CharacterEnergySample2.png" Path="DATEBASE\CHARACTER\CHARACTER-ENERGY~\Images~\CHARACTERENERGYSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          <Item Title="CharacterEnergySample3.png" Path="DATEBASE\CHARACTER\CHARACTER-ENERGY~\Images~\CHARACTERENERGYSAMPLE3.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+        </Item>
+      </Item>
+      <Item Title="Character-sightRadius" Path="DATEBASE\CHARACTER\CHARACTER-SIGHTRADIUS.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Character-stamina" Path="DATEBASE\CHARACTER\CHARACTER-STAMINA.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+        <Item Title="图像~" Path="DATEBASE\CHARACTER\CHARACTER-STAMINA~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+          <Item Title="CharacterStaminaSample1.png" Path="DATEBASE\CHARACTER\CHARACTER-STAMINA~\Images~\CHARACTERSTAMINASAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          <Item Title="CharacterStaminaSample2.png" Path="DATEBASE\CHARACTER\CHARACTER-STAMINA~\Images~\CHARACTERSTAMINASAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          <Item Title="CharacterStaminaSample3.png" Path="DATEBASE\CHARACTER\CHARACTER-STAMINA~\Images~\CHARACTERSTAMINASAMPLE3.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+        </Item>
+      </Item>
+      <Item Title="Character-teammateCharacterId" Path="DATEBASE\CHARACTER\CHARACTER-TEAMMATECHARACTERID.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+        <Item Title="图像~" Path="DATEBASE\CHARACTER\CHARACTER-TEAMMATECHARACTERID~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+          <Item Title="CharacterTeammateSample1.png" Path="DATEBASE\CHARACTER\CHARACTER-TEAMMATECHARACTERID~\Images~\CHARACTERTEAMMATESAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          <Item Title="CharacterTeammateSample2.png" Path="DATEBASE\CHARACTER\CHARACTER-TEAMMATECHARACTERID~\Images~\CHARACTERTEAMMATESAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+        </Item>
+      </Item>
+      <Item Title="Character-moveSpeed" Path="DATEBASE\CHARACTER\CHARACTER-MOVESPEED.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Character-initialHandCardCount" Path="DATEBASE\CHARACTER\CHARACTER-INITIALHANDCARDCOUNT.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Character-startTurnDrawHandCardCount" Path="DATEBASE\CHARACTER\CHARACTER-STARTTURNDRAWHANDCARDCOUNT.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Character-type" Path="DATEBASE\CHARACTER\CHARACTER-TYPE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Character-debugName" Path="DATEBASE\CHARACTER\CHARACTER-DEBUGNAME.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Character-introPlotId" Path="DATEBASE\CHARACTER\CHARACTER-INTROPLOTID.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+        <Item Title="图像~" Path="DATEBASE\CHARACTER\CHARACTER-INTROPLOTID~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+          <Item Title="Character-introPlotId.png" Path="DATEBASE\CHARACTER\CHARACTER-INTROPLOTID~\Images~\CHARACTER-INTROPLOTID.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          <Item Title="CharacterIntroPlotIdSample2.png" Path="DATEBASE\CHARACTER\CHARACTER-INTROPLOTID~\Images~\CHARACTERINTROPLOTIDSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+        </Item>
+      </Item>
+      <Item Title="Character-hp" Path="DATEBASE\CHARACTER\CHARACTER-HP.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+        <Item Title="图像~" Path="DATEBASE\CHARACTER\CHARACTER-HP~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+          <Item Title="CharacterHpSample1.png" Path="DATEBASE\CHARACTER\CHARACTER-HP~\Images~\CHARACTERHPSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          <Item Title="CharacterHpSample2.png" Path="DATEBASE\CHARACTER\CHARACTER-HP~\Images~\CHARACTERHPSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          <Item Title="CharacterHpSample3.png" Path="DATEBASE\CHARACTER\CHARACTER-HP~\Images~\CHARACTERHPSAMPLE3.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+        </Item>
+      </Item>
+      <Item Title="Character-initialCode" Path="DATEBASE\CHARACTER\CHARACTER-INITIALCODE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Character-initialEquipmentCardId[0~99]" Path="DATEBASE\CHARACTER\CHARACTER-INITIALEQUIPMENTCARDID0.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+        <Item Title="图像~" Path="DATEBASE\CHARACTER\CHARACTER-INITIALEQUIPMENTCARDID0~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+          <Item Title="CharacterIECISample1.png" Path="DATEBASE\CHARACTER\CHARACTER-INITIALEQUIPMENTCARDID0~\Images~\CHARACTERIECISAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          <Item Title="CharacterIECISample2.png" Path="DATEBASE\CHARACTER\CHARACTER-INITIALEQUIPMENTCARDID0~\Images~\CHARACTERIECISAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+        </Item>
+      </Item>
+      <Item Title="Character-cardId[0~99]" Path="DATEBASE\CHARACTER\CHARACTER-CARDID0.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+        <Item Title="图像~" Path="DATEBASE\CHARACTER\CHARACTER-CARDID0~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+          <Item Title="CharacterCardIdSample1.png" Path="DATEBASE\CHARACTER\CHARACTER-CARDID0~\Images~\CHARACTERCARDIDSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          <Item Title="CharacterCardIdSample2.png" Path="DATEBASE\CHARACTER\CHARACTER-CARDID0~\Images~\CHARACTERCARDIDSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+        </Item>
+      </Item>
+    </Item>
+    <Item Title="Card 子列表" Path="DATEBASE\CARD\" StatuHeader="" StatuTail="" IsExpanded="true" Tooltip="" ItemType="Folder" IsHomePage="False">
+      <Item Title="Card-id" Path="DATEBASE\CARD\CARD-ID.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+        <Item Title="图像~" Path="DATEBASE\CARD\CARD-ID~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+          <Item Title="CardIdSample1.png" Path="DATEBASE\CARD\CARD-ID~\Images~\CARDIDSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+        </Item>
+      </Item>
+      <Item Title="Card-displayName" Path="DATEBASE\CARD\CARD-DISPLAYNAME.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Card-testerCategory" Path="DATEBASE\CARD\CARD-TESTERCATEGORY.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Card-usedIn" Path="DATEBASE\CARD\CARD-USEDIN.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Card-price" Path="DATEBASE\CARD\CARD-PRICE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Card-energy" Path="DATEBASE\CARD\CARD-ENERGY.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Card-range" Path="DATEBASE\CARD\CARD-RANGE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Card-spreadRadius" Path="DATEBASE\CARD\CARD-SPREADRADIUS.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Card-aimTypeCode" Path="DATEBASE\CARD\CARD-AIMTYPECODE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Card-perferredTargetTypeCode" Path="DATEBASE\CARD\CARD-PERFERREDTARGETTYPECODE.md" StatuHeader="" StatuTail="" IsExpanded="false" IsSelected="true" Tooltip="" ItemType="File" IsHomePage="False">
+        <Item Title="图像~" Path="DATEBASE\CARD\CARD-PERFERREDTARGETTYPECODE~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+          <Item Title="CardPTTCSample1.png" Path="DATEBASE\CARD\CARD-PERFERREDTARGETTYPECODE~\Images~\CARDPTTCSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+        </Item>
+      </Item>
+      <Item Title="Card-tagCode" Path="DATEBASE\CARD\CARD-TAGCODE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Card-description" Path="DATEBASE\CARD\CARD-DESCRIPTION.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+        <Item Title="图像~" Path="DATEBASE\CARD\CARD-DESCRIPTION~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+          <Item Title="CardDescriptionSample1.png" Path="DATEBASE\CARD\CARD-DESCRIPTION~\Images~\CARDDESCRIPTIONSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          <Item Title="CardDescriptionSample2.png" Path="DATEBASE\CARD\CARD-DESCRIPTION~\Images~\CARDDESCRIPTIONSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+        </Item>
+      </Item>
+      <Item Title="Card-code" Path="DATEBASE\CARD\CARD-CODE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Card-backgroundId" Path="DATEBASE\CARD\CARD-BACKGROUNDID.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+        <Item Title="图像~" Path="DATEBASE\CARD\CARD-BACKGROUNDID~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+          <Item Title="CardBackgroundIdSample1.png" Path="DATEBASE\CARD\CARD-BACKGROUNDID~\Images~\CARDBACKGROUNDIDSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          <Item Title="CardBackgroundIdSample2.png" Path="DATEBASE\CARD\CARD-BACKGROUNDID~\Images~\CARDBACKGROUNDIDSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+        </Item>
+      </Item>
+      <Item Title="Card-effectCode" Path="DATEBASE\CARD\CARD-EFFECTCODE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+        <Item Title="图像~" Path="DATEBASE\CARD\CARD-EFFECTCODE~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+          <Item Title="CardEffectCodeSample1.png" Path="DATEBASE\CARD\CARD-EFFECTCODE~\Images~\CARDEFFECTCODESAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+        </Item>
+      </Item>
+      <Item Title="Card-comment" Path="DATEBASE\CARD\CARD-COMMENT.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="一个数字" Path="DATEBASE\CARD\A-NUMBER.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+    </Item>
+    <Item Title="CardCommand 子列表" Path="DATEBASE\CARDCOMMAND\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False">
+      <Item Title="CardCommand-id" Path="DATEBASE\CARDCOMMAND\CARDCOMMAND-ID.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="CardCommand-description" Path="DATEBASE\CARDCOMMAND\CARDCOMMAND-DESCRIPTION.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="CardCommand-quoteDescription" Path="DATEBASE\CARDCOMMAND\CARDCOMMAND-QUOTEDESCRIPTION.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+        <Item Title="图像~" Path="DATEBASE\CARDCOMMAND\CARDCOMMAND-QUOTEDESCRIPTION~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+          <Item Title="CardCommandQDSample1.png" Path="DATEBASE\CARDCOMMAND\CARDCOMMAND-QUOTEDESCRIPTION~\Images~\CARDCOMMANDQDSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+        </Item>
+      </Item>
+      <Item Title="CardCommand-effectCode" Path="DATEBASE\CARDCOMMAND\CARDCOMMAND-EFFECTCODE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="CardCommand-remapCode" Path="DATEBASE\CARDCOMMAND\CARDCOMMAND-REMAPCODE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="CardCommand-comment" Path="DATEBASE\CARDCOMMAND\CARDCOMMAND-COMMENT.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="CardCommand-category" Path="DATEBASE\CARDCOMMAND\CARDCOMMAND-CATEGORY.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+    </Item>
+    <Item Title="Cardset 子列表" Path="DATEBASE\CARDSET\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False">
+      <Item Title="Cardset-id" Path="DATEBASE\CARDSET\CARDSET-ID.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Cardset-displayName" Path="DATEBASE\CARDSET\CARDSET-DISPLAYNAME.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Cardset-tagCode" Path="DATEBASE\CARDSET\CARDSET-TAGCODE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Cardset-characterId" Path="DATEBASE\CARDSET\CARDSET-CHARACTERID.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+        <Item Title="图像~" Path="DATEBASE\CARDSET\CARDSET-CHARACTERID~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+          <Item Title="CardsetCharacterIdSample1.png" Path="DATEBASE\CARDSET\CARDSET-CHARACTERID~\Images~\CARDSETCHARACTERIDSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          <Item Title="CardsetCharacterIdSample2.png" Path="DATEBASE\CARDSET\CARDSET-CHARACTERID~\Images~\CARDSETCHARACTERIDSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+        </Item>
+      </Item>
+      <Item Title="Cardset-CardId[0~99]" Path="DATEBASE\CARDSET\CARDSET-CARDID0.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+    </Item>
+    <Item Title="Stage 子列表" Path="DATEBASE\STAGE\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False">
+      <Item Title="Stage-id" Path="DATEBASE\STAGE\STAGE-ID.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Stage-displayName" Path="DATEBASE\STAGE\STAGE-DISPLAYNAME.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Stage-comment" Path="DATEBASE\STAGE\STAGE-COMMENT.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Stage-section" Path="DATEBASE\STAGE\STAGE-SECTION.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+        <Item Title="图像~" Path="DATEBASE\STAGE\STAGE-SECTION~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+          <Item Title="StageSectionSample1.png" Path="DATEBASE\STAGE\STAGE-SECTION~\Images~\STAGESECTIONSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+        </Item>
+      </Item>
+      <Item Title="Stage-part" Path="DATEBASE\STAGE\STAGE-PART.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+        <Item Title="图像~" Path="DATEBASE\STAGE\STAGE-PART~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+          <Item Title="StagePartSample1.png" Path="DATEBASE\STAGE\STAGE-PART~\Images~\STAGEPARTSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+        </Item>
+      </Item>
+      <Item Title="Stage-mapId" Path="DATEBASE\STAGE\STAGE-MAPID.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Stage-initCode" Path="DATEBASE\STAGE\STAGE-INITCODE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Stage-mobId[0~5]" Path="DATEBASE\STAGE\STAGE-MOBID0.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Stage-rewardMoney" Path="DATEBASE\STAGE\STAGE-REWARDMONEY.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+        <Item Title="图像~" Path="DATEBASE\STAGE\STAGE-REWARDMONEY~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+          <Item Title="StageRewardMoneySample1.png" Path="DATEBASE\STAGE\STAGE-REWARDMONEY~\Images~\STAGEREWARDMONEYSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          <Item Title="StageRewardMoneySample2.png" Path="DATEBASE\STAGE\STAGE-REWARDMONEY~\Images~\STAGEREWARDMONEYSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+        </Item>
+      </Item>
+      <Item Title="Stage-musicId" Path="DATEBASE\STAGE\STAGE-MUSICID.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+    </Item>
+    <Item Title="Effect 子列表" Path="DATEBASE\EFFECT\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False">
+      <Item Title="Effect-id" Path="DATEBASE\EFFECT\EFFECT-ID.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Effect-displayName" Path="DATEBASE\EFFECT\EFFECT-DISPLAYNAME.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Effect-soundId" Path="DATEBASE\EFFECT\EFFECT-SOUNDID.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Effect-lifetime" Path="DATEBASE\EFFECT\EFFECT-LIFETIME.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+    </Item>
+    <Item Title="Sound 子列表" Path="DATEBASE\SOUND\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False">
+      <Item Title="Sound-id" Path="DATEBASE\SOUND\SOUND-ID.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      <Item Title="Sound-displayName" Path="DATEBASE\SOUND\SOUND-DISPLAYNAME.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+    </Item>
+    <Item Title="Music 子列表" Path="DATEBASE\MUSIC\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False" />
+    <Item Title="Tester 子列表" Path="DATEBASE\TESTER\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False" />
+    <Item Title="Devlog 子列表" Path="DATEBASE\DEVLOG\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False">
+      <Item Title="图像~" Path="DATEBASE\DEVLOG\_DEVLOG~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+        <Item Title="DevLogSample1.png" Path="DATEBASE\DEVLOG\_DEVLOG~\Images~\DEVLOGSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+      </Item>
+    </Item>
+    <Item Title="ExcelConfig 子列表" Path="DATEBASE\EXCELCONFIG\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False" />
+    <Item Title="Database 详解-附录" Path="DATEBASE\APPENDIX\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False">
+      <Item Title="CardCommand 子列表-用于描述的指令" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\" StatuHeader="" StatuTail="" IsExpanded="true" Tooltip="" ItemType="Folder" IsHomePage="False">
+        <Item Title="参数" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\ARGS.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\ARGS~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="ArgsSample1.png" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\ARGS~\Images~\ARGSSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="CardIdToDisplayName 和 cn" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\CARDIDTODISPLAYNAME.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\CARDIDTODISPLAYNAME~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CITDNSample1.png" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\CARDIDTODISPLAYNAME~\Images~\CITDNSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="CharacterIdToDisplayName 和 cha" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\CHARACTERIDTODISPLAYNAME.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\CHARACTERIDTODISPLAYNAME~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CITDNSample1.png" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\CHARACTERIDTODISPLAYNAME~\Images~\CITDNSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="CardCommandIdToDescription 和 cmd" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\CARDCOMMANDIDTODESCRIPTION.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\CARDCOMMANDIDTODESCRIPTION~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CCITDSample1.png" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\CARDCOMMANDIDTODESCRIPTION~\Images~\CCITDSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="CCITDSample2.png" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\CARDCOMMANDIDTODESCRIPTION~\Images~\CCITDSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="AddRichTagYellow，yellow 和 ylw" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\ADDRICHTAGYELLOW.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\ADDRICHTAGYELLOW~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="ARTYSample1.png" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\ADDRICHTAGYELLOW~\Images~\ARTYSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="optionalArg，opt 和 optN" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\OPTIONALARG.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\OPTIONALARG~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="OptionalArgSample1.png" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\OPTIONALARG~\Images~\OPTIONALARGSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="OptionalArgSample2.png" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\OPTIONALARG~\Images~\OPTIONALARGSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="OptionalArgSample3.png" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\OPTIONALARG~\Images~\OPTIONALARGSAMPLE3.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="OptionalArgSample4.png" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\OPTIONALARG~\Images~\OPTIONALARGSAMPLE4.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="Quote 和 qte" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\QUOTE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\QUOTE~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="QuoteSample1.png" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\QUOTE~\Images~\QUOTESAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="QuoteRemapCode 和 qteRmp" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\QUOTEREMAPCODE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\QUOTEREMAPCODE~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="QuoteRemapCodeSample1.png" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\QUOTEREMAPCODE~\Images~\QUOTEREMAPCODESAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="credit" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\CREDIT.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\CREDIT~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CreditSample1.png" Path="DATEBASE\APPENDIX\CARDCOMMANDDESCRIPTION\CREDIT~\Images~\CREDITSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+      </Item>
+      <Item Title="测试宏" Path="DATEBASE\VBA\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False" />
+    </Item>
+  </Item>
+  <Item Title="快速教程" Path="UM\" StatuHeader="" StatuTail="" IsExpanded="true" Tooltip="" ItemType="Folder" IsHomePage="False">
+    <Item Title="卡牌（Card）" Path="UM\CARD\" StatuHeader="" StatuTail="" IsExpanded="true" Tooltip="" ItemType="Folder" IsHomePage="False">
+      <Item Title="制作一张普通卡牌" Path="UM\CARD\NORMALCARD\" StatuHeader="" StatuTail="" IsExpanded="true" Tooltip="" ItemType="Folder" IsHomePage="False">
+        <Item Title="开始制作一张普通卡牌" Path="UM\CARD\NORMALCARD\STARTNORMALCARD.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\NORMALCARD\STARTNORMALCARD~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardNormalStart.png" Path="UM\CARD\NORMALCARD\STARTNORMALCARD~\Images~\CARDNORMALSTART.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="填写卡牌 id" Path="UM\CARD\NORMALCARD\CARDID.md" StatuHeader="" StatuTail="" IsExpanded="true" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\NORMALCARD\CARDID~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardId.png" Path="UM\CARD\NORMALCARD\CARDID~\Images~\CARDID.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="CardId2.png" Path="UM\CARD\NORMALCARD\CARDID~\Images~\CARDID2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="CardId3.png" Path="UM\CARD\NORMALCARD\CARDID~\Images~\CARDID3.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="填写卡牌 displayName" Path="UM\CARD\NORMALCARD\DISPLAYNAME.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\NORMALCARD\DISPLAYNAME~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="displayName1.png" Path="UM\CARD\NORMALCARD\DISPLAYNAME~\Images~\DISPLAYNAME1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="displayName2.png" Path="UM\CARD\NORMALCARD\DISPLAYNAME~\Images~\DISPLAYNAME2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="为卡牌定价 price" Path="UM\CARD\NORMALCARD\CARDPRICE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\NORMALCARD\CARDPRICE~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardPrice1.png" Path="UM\CARD\NORMALCARD\CARDPRICE~\Images~\CARDPRICE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="CardPrice2.png" Path="UM\CARD\NORMALCARD\CARDPRICE~\Images~\CARDPRICE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="设定能量消耗 energy" Path="UM\CARD\NORMALCARD\CARDNORMALENERGY.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\NORMALCARD\CARDNORMALENERGY~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardNormalEnergy1.png" Path="UM\CARD\NORMALCARD\CARDNORMALENERGY~\Images~\CARDNORMALENERGY1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="CardNormalEnergy2.png" Path="UM\CARD\NORMALCARD\CARDNORMALENERGY~\Images~\CARDNORMALENERGY2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="设定卡牌射程 range" Path="UM\CARD\NORMALCARD\CARDNORMALRANGE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\NORMALCARD\CARDNORMALRANGE~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardNormalRange1.png" Path="UM\CARD\NORMALCARD\CARDNORMALRANGE~\Images~\CARDNORMALRANGE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="CardNormalRange2.png" Path="UM\CARD\NORMALCARD\CARDNORMALRANGE~\Images~\CARDNORMALRANGE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="设定卡牌扩散范围 spreadRadius" Path="UM\CARD\NORMALCARD\CARDNORMALSPREADRADIUS.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\NORMALCARD\CARDNORMALSPREADRADIUS~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardNormalSpreadRadius1.png" Path="UM\CARD\NORMALCARD\CARDNORMALSPREADRADIUS~\Images~\CARDNORMALSPREADRADIUS1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="CardNormalSpreadRadius2.png" Path="UM\CARD\NORMALCARD\CARDNORMALSPREADRADIUS~\Images~\CARDNORMALSPREADRADIUS2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="设定卡牌瞄准类型 aimTypeCode" Path="UM\CARD\NORMALCARD\CARDNORMALAIMTYPECODE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\NORMALCARD\CARDNORMALAIMTYPECODE~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardNormalAimTypeCode1.png" Path="UM\CARD\NORMALCARD\CARDNORMALAIMTYPECODE~\Images~\CARDNORMALAIMTYPECODE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="CardNormalAimTypeCode2.png" Path="UM\CARD\NORMALCARD\CARDNORMALAIMTYPECODE~\Images~\CARDNORMALAIMTYPECODE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="设定卡牌最佳目标 perferredTargetTypeCode" Path="UM\CARD\NORMALCARD\CARDNORMALPERFERREDTARGETTYPECODE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\NORMALCARD\CARDNORMALPERFERREDTARGETTYPECODE~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardNormalPTTC1.png" Path="UM\CARD\NORMALCARD\CARDNORMALPERFERREDTARGETTYPECODE~\Images~\CARDNORMALPTTC1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="编写卡牌指令 code" Path="UM\CARD\NORMALCARD\CARDNORMALCODE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\NORMALCARD\CARDNORMALCODE~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardNormalCode1.png" Path="UM\CARD\NORMALCARD\CARDNORMALCODE~\Images~\CARDNORMALCODE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="设定卡牌背景图片 backgroundId" Path="UM\CARD\NORMALCARD\CARDNORMALBACKGROUNDID.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\NORMALCARD\CARDNORMALBACKGROUNDID~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardNormalBGId1.png" Path="UM\CARD\NORMALCARD\CARDNORMALBACKGROUNDID~\Images~\CARDNORMALBGID1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="设定卡牌特效代码 effectCode" Path="UM\CARD\NORMALCARD\CARD-NORMALEFFECTCODE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\NORMALCARD\CARD-NORMALEFFECTCODE~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardNormalEffectCode1.png" Path="UM\CARD\NORMALCARD\CARD-NORMALEFFECTCODE~\Images~\CARDNORMALEFFECTCODE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="测试卡牌" Path="UM\CARD\NORMALCARD\CARDNORMALTEST.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\NORMALCARD\CARDNORMALTEST~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardNormalTestSample1.png" Path="UM\CARD\NORMALCARD\CARDNORMALTEST~\Images~\CARDNORMALTESTSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="总览制作一张普通卡牌" Path="UM\CARD\NORMALCARD\CARDNORMALSUMMARY.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\NORMALCARD\CARDNORMALSUMMARY~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardNormalSummary1.png" Path="UM\CARD\NORMALCARD\CARDNORMALSUMMARY~\Images~\CARDNORMALSUMMARY1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+      </Item>
+      <Item Title="制作一张 buff 卡牌" Path="UM\CARD\CARDBUFF\" StatuHeader="" StatuTail="" IsExpanded="true" Tooltip="" ItemType="Folder" IsHomePage="False">
+        <Item Title="开始制作一张 buff 卡牌" Path="UM\CARD\CARDBUFF\STARTBUFFCARD.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\CARDBUFF\STARTBUFFCARD~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="StartBuffCard.png" Path="UM\CARD\CARDBUFF\STARTBUFFCARD~\Images~\STARTBUFFCARD.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="填写 buff id" Path="UM\CARD\CARDBUFF\CARDBUFFID.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\CARDBUFF\CARDBUFFID~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardBuffId1.png" Path="UM\CARD\CARDBUFF\CARDBUFFID~\Images~\CARDBUFFID1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="CardBuffId3.png" Path="UM\CARD\CARDBUFF\CARDBUFFID~\Images~\CARDBUFFID3.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="CradBuffId2.png" Path="UM\CARD\CARDBUFF\CARDBUFFID~\Images~\CRADBUFFID2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="填写 buff 卡牌 displayName" Path="UM\CARD\CARDBUFF\CRADBUFFDISPLAYNAME.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\CARDBUFF\CRADBUFFDISPLAYNAME~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CradBuffDisplayname1.png" Path="UM\CARD\CARDBUFF\CRADBUFFDISPLAYNAME~\Images~\CRADBUFFDISPLAYNAME1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="填写卡牌 tagCode" Path="UM\CARD\CARDBUFF\CARDBUFFTAGCODE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\CARDBUFF\CARDBUFFTAGCODE~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardBuffTagCode1.png" Path="UM\CARD\CARDBUFF\CARDBUFFTAGCODE~\Images~\CARDBUFFTAGCODE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="重写 buff 卡牌描述 description" Path="UM\CARD\CARDBUFF\CARDBUFFDESCRIPTION.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\CARDBUFF\CARDBUFFDESCRIPTION~\Images~\" StatuHeader="" StatuTail="" IsExpanded="true" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardBuffDescription.png" Path="UM\CARD\CARDBUFF\CARDBUFFDESCRIPTION~\Images~\CARDBUFFDESCRIPTION.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="编写 buff 卡牌指令 code" Path="UM\CARD\CARDBUFF\CARDBUFFCODE.md" StatuHeader="" StatuTail="" IsExpanded="true" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\CARDBUFF\CARDBUFFCODE~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardBuffCode.png" Path="UM\CARD\CARDBUFF\CARDBUFFCODE~\Images~\CARDBUFFCODE.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="设定 buff 卡牌背景图片 backgroundId" Path="UM\CARD\CARDBUFF\CARDBUFFBACKGROUND.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\CARDBUFF\CARDBUFFBACKGROUND~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardBuffBackgroundId.png" Path="UM\CARD\CARDBUFF\CARDBUFFBACKGROUND~\Images~\CARDBUFFBACKGROUNDID.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="测试卡牌" Path="UM\CARD\CARDBUFF\CARDBUFFTEST.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\CARDBUFF\CARDBUFFTEST~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardBuffSample2.png" Path="UM\CARD\CARDBUFF\CARDBUFFTEST~\Images~\CARDBUFFSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="CardBuffTestSample1.png" Path="UM\CARD\CARDBUFF\CARDBUFFTEST~\Images~\CARDBUFFTESTSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="CardBuffTestSample3.png" Path="UM\CARD\CARDBUFF\CARDBUFFTEST~\Images~\CARDBUFFTESTSAMPLE3.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="总览制作一张 buff 卡牌" Path="UM\CARD\CARDBUFF\CARDBUFFSUMMARY.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\CARDBUFF\CARDBUFFSUMMARY~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardBuffSummary1.png" Path="UM\CARD\CARDBUFF\CARDBUFFSUMMARY~\Images~\CARDBUFFSUMMARY1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="CardBuffSummary2.png" Path="UM\CARD\CARDBUFF\CARDBUFFSUMMARY~\Images~\CARDBUFFSUMMARY2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="CardBuffSummary3.png" Path="UM\CARD\CARDBUFF\CARDBUFFSUMMARY~\Images~\CARDBUFFSUMMARY3.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+      </Item>
+      <Item Title="制作一张装备卡牌" Path="UM\CARD\EQUIPMENTCARD\" StatuHeader="" StatuTail="" IsExpanded="true" Tooltip="" ItemType="Folder" IsHomePage="False">
+        <Item Title="开始制作一张装备卡牌" Path="UM\CARD\EQUIPMENTCARD\STARTEQUIPMENTCARD.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\EQUIPMENTCARD\STARTEQUIPMENTCARD~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="StartEquipmentCard.png" Path="UM\CARD\EQUIPMENTCARD\STARTEQUIPMENTCARD~\Images~\STARTEQUIPMENTCARD.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="填写装备卡牌 id" Path="UM\CARD\EQUIPMENTCARD\CARDEQMID.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\EQUIPMENTCARD\CARDEQMID~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardEQMId1.png" Path="UM\CARD\EQUIPMENTCARD\CARDEQMID~\Images~\CARDEQMID1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="CardEQMId2.png" Path="UM\CARD\EQUIPMENTCARD\CARDEQMID~\Images~\CARDEQMID2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="填写装备卡牌 displayName" Path="UM\CARD\EQUIPMENTCARD\CARDEQMDISPLAYNAME.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\EQUIPMENTCARD\CARDEQMDISPLAYNAME~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardEQMDisplayname1.png" Path="UM\CARD\EQUIPMENTCARD\CARDEQMDISPLAYNAME~\Images~\CARDEQMDISPLAYNAME1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="为装备卡牌定价 price" Path="UM\CARD\EQUIPMENTCARD\CARDEQMPRICE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\EQUIPMENTCARD\CARDEQMPRICE~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardEQMPrice1.png" Path="UM\CARD\EQUIPMENTCARD\CARDEQMPRICE~\Images~\CARDEQMPRICE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="设定装备卡牌瞄准类型 aimTypeCode" Path="UM\CARD\EQUIPMENTCARD\CARDEQMAIMTYPECODE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\EQUIPMENTCARD\CARDEQMAIMTYPECODE~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardEQMATC1.png" Path="UM\CARD\EQUIPMENTCARD\CARDEQMAIMTYPECODE~\Images~\CARDEQMATC1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="设定装备卡牌最佳目标 perferredTargetTypeCode" Path="UM\CARD\EQUIPMENTCARD\CARDEQMPTTC.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\EQUIPMENTCARD\CARDEQMPTTC~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardEQMPTTC1.png" Path="UM\CARD\EQUIPMENTCARD\CARDEQMPTTC~\Images~\CARDEQMPTTC1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="填写装备卡牌 tagCode" Path="UM\CARD\EQUIPMENTCARD\CARDEQMTAGCODE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\EQUIPMENTCARD\CARDEQMTAGCODE~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardEQMTagCode.png" Path="UM\CARD\EQUIPMENTCARD\CARDEQMTAGCODE~\Images~\CARDEQMTAGCODE.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="重写装备卡牌描述 description" Path="UM\CARD\EQUIPMENTCARD\CARDEQMDESCRIPTION.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\EQUIPMENTCARD\CARDEQMDESCRIPTION~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardEQMDescription1.png" Path="UM\CARD\EQUIPMENTCARD\CARDEQMDESCRIPTION~\Images~\CARDEQMDESCRIPTION1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="编写装备卡牌指令 code" Path="UM\CARD\EQUIPMENTCARD\CARDEQMCODE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\EQUIPMENTCARD\CARDEQMCODE~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardEQMCode.png" Path="UM\CARD\EQUIPMENTCARD\CARDEQMCODE~\Images~\CARDEQMCODE.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="设定装备卡牌背景图片 backgroundId" Path="UM\CARD\EQUIPMENTCARD\CARDEQMBACKGROUNDID.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\EQUIPMENTCARD\CARDEQMBACKGROUNDID~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardEQMBackgroundId.png" Path="UM\CARD\EQUIPMENTCARD\CARDEQMBACKGROUNDID~\Images~\CARDEQMBACKGROUNDID.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="测试卡牌" Path="UM\CARD\EQUIPMENTCARD\CARDET.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\EQUIPMENTCARD\CARDET~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CETS1.png" Path="UM\CARD\EQUIPMENTCARD\CARDET~\Images~\CETS1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="CETS2.png" Path="UM\CARD\EQUIPMENTCARD\CARDET~\Images~\CETS2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="CETS3.png" Path="UM\CARD\EQUIPMENTCARD\CARDET~\Images~\CETS3.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="CETS4.png" Path="UM\CARD\EQUIPMENTCARD\CARDET~\Images~\CETS4.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="总览制作一张装备卡牌" Path="UM\CARD\EQUIPMENTCARD\CARDEQMSUMMARY.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="UM\CARD\EQUIPMENTCARD\CARDEQMSUMMARY~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CardEQMSummary1.png" Path="UM\CARD\EQUIPMENTCARD\CARDEQMSUMMARY~\Images~\CARDEQMSUMMARY1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="CardEQMSummary2.png" Path="UM\CARD\EQUIPMENTCARD\CARDEQMSUMMARY~\Images~\CARDEQMSUMMARY2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="CardEQMSummary3.png" Path="UM\CARD\EQUIPMENTCARD\CARDEQMSUMMARY~\Images~\CARDEQMSUMMARY3.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="CardEQMSummary4.png" Path="UM\CARD\EQUIPMENTCARD\CARDEQMSUMMARY~\Images~\CARDEQMSUMMARY4.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+      </Item>
+    </Item>
+    <Item Title="卡面（CardArt）" Path="UM\CARDART\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False" />
+    <Item Title="游戏角色（CharacterModel）" Path="UM\CHARACTERMODEL\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False" />
+    <Item Title="特效（Effect）" Path="UM\EFFECT\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False" />
+    <Item Title="地形环境（EnvironmentModel）" Path="UM\BACKGROUND\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False" />
+    <Item Title="关卡地图（StageMap）" Path="UM\LEVELMAP\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False" />
+    <Item Title="音乐音效 (Music/Sound)" Path="UM\MUSIC-SOUND\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False" />
+    <Item Title="本地化(Localization)" Path="UM\LOCALIZATION\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False" />
+  </Item>
+  <Item Title="详细教程" Path="MESS\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False">
+    <Item Title="卡牌相关的教程" Path="MESS\CARD\" StatuHeader="" StatuTail="" IsExpanded="true" Tooltip="" ItemType="Folder" IsHomePage="False">
+      <Item Title="新建一张普通卡牌" Path="MESS\CARD\MAKENEWCARDS.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+    </Item>
+  </Item>
+  <Item Title="有疑问？" Path="QUESTION\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False" />
+</Item>

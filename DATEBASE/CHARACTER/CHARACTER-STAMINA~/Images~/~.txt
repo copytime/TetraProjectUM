@@ -1,0 +1,3 @@
+CHARACTERSTAMINASAMPLE1.png|CharacterStaminaSample1.png
+CHARACTERSTAMINASAMPLE2.png|CharacterStaminaSample2.png
+CHARACTERSTAMINASAMPLE3.png|CharacterStaminaSample3.png

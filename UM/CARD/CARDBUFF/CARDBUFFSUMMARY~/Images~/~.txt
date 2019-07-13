@@ -1,0 +1,3 @@
+CARDBUFFSUMMARY1.png|CardBuffSummary1.png
+CARDBUFFSUMMARY2.png|CardBuffSummary2.png
+CARDBUFFSUMMARY3.png|CardBuffSummary3.png

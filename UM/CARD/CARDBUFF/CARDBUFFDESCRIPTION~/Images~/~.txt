@@ -1,0 +1,2 @@
+CARDBUFFDESCRIPTION1.png|CardBuffDescription1.png
+CARDBUFFDESCRIPTION.png|CardBuffDescription.png

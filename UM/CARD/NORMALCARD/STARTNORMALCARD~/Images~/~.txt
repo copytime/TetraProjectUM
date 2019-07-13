@@ -1,0 +1,1 @@
+CARDNORMALSTART.png|CardNormalStart.png

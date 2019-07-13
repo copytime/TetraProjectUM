@@ -1,0 +1,3 @@
+CHARACTERENERGYSAMPLE1.png|CharacterEnergySample1.png
+CHARACTERENERGYSAMPLE2.png|CharacterEnergySample2.png
+CHARACTERENERGYSAMPLE3.png|CharacterEnergySample3.png

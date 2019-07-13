@@ -1,0 +1,2 @@
+CARDNORMALRANGE1.png|CardNormalRange1.png
+CARDNORMALRANGE2.png|CardNormalRange2.png

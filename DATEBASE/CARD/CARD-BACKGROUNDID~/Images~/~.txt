@@ -1,0 +1,2 @@
+CARDBACKGROUNDIDSAMPLE1.png|CardBackgroundIdSample1.png
+CARDBACKGROUNDIDSAMPLE2.png|CardBackgroundIdSample2.png

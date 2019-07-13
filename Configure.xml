@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+  <HtmlHeadersCollapse>Manual</HtmlHeadersCollapse>
+  <color>dark</color>
+  <FormatAfterCompile>False</FormatAfterCompile>
+  <AutoNumberHeaders>False</AutoNumberHeaders>
+  <AutoNumberStyle>en_us</AutoNumberStyle>
+  <CompileCodeToFillBlank>False</CompileCodeToFillBlank>
+  <CompilePageMenu>False</CompilePageMenu>
+  <HideExamAnswer>False</HideExamAnswer>
+  <Encoding>gb18030</Encoding>
+  <IgnoreEncryptedFiles>True</IgnoreEncryptedFiles>
+  <OpenedFiles>
+  </OpenedFiles>
+  <ActiveDocumentFullPath>
+  </ActiveDocumentFullPath>
+</Root>

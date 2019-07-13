@@ -1,0 +1,2 @@
+CHARACTER-INTROPLOTID.png|Character-introPlotId.png
+CHARACTERINTROPLOTIDSAMPLE2.png|CharacterIntroPlotIdSample2.png

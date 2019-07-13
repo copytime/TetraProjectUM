@@ -1,0 +1,2 @@
+CARDNORMALENERGY1.png|CardNormalEnergy1.png
+CARDNORMALENERGY2.png|CardNormalEnergy2.png

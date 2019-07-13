@@ -1,0 +1,3 @@
+CARDID.png|CardId.png
+CARDID2.png|CardId2.png
+CARDID3.png|CardId3.png

@@ -1,0 +1,2 @@
+CHARACTERIECISAMPLE1.png|CharacterIECISample1.png
+CHARACTERIECISAMPLE2.png|CharacterIECISample2.png
